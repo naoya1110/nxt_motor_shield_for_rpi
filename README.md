@@ -1,1 +1,1 @@
-# nxt_motor_shield_for_rpi
+# NXT Motor Shield For Raspberry Pi
