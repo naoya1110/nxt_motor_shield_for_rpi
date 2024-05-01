@@ -465,7 +465,7 @@
   (symbol (lib_id "power:GND") (at 59.69 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 014d78d0-bac9-4e5a-b297-54c9280dcfbf)
-    (property "Reference" "#PWR?" (id 0) (at 59.69 36.83 0)
+    (property "Reference" "#PWR0104" (id 0) (at 59.69 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 59.69 35.56 0))
@@ -481,7 +481,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 29.21 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0560e7fb-eff7-4e7a-b494-61da7558e934)
-    (property "Reference" "#FLG?" (id 0) (at 29.21 24.765 0)
+    (property "Reference" "#FLG0104" (id 0) (at 29.21 24.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (id 1) (at 29.21 21.59 0))
@@ -497,7 +497,7 @@
   (symbol (lib_id "power:+5V") (at 50.8 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 14824ead-fe88-4607-9e03-ab16f2f4a228)
-    (property "Reference" "#PWR?" (id 0) (at 50.8 58.42 0)
+    (property "Reference" "#PWR0102" (id 0) (at 50.8 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at 50.8 49.53 0))
@@ -513,7 +513,7 @@
   (symbol (lib_id "power:+9V") (at 82.55 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2267c83d-9bd1-481b-8df7-627889eab3e9)
-    (property "Reference" "#PWR?" (id 0) (at 82.55 30.48 0)
+    (property "Reference" "#PWR0105" (id 0) (at 82.55 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+9V" (id 1) (at 82.55 21.59 0))
@@ -529,7 +529,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 59.69 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 276d9ea1-694c-4418-9d54-922ac7a4dfb2)
-    (property "Reference" "#FLG?" (id 0) (at 59.69 24.765 0)
+    (property "Reference" "#FLG0102" (id 0) (at 59.69 24.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (id 1) (at 59.69 21.59 0))
@@ -545,7 +545,7 @@
   (symbol (lib_id "power:+5V") (at 20.32 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2db49efc-fbef-4c5f-8e82-592f2deb258d)
-    (property "Reference" "#PWR?" (id 0) (at 20.32 30.48 0)
+    (property "Reference" "#PWR0106" (id 0) (at 20.32 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at 20.32 21.59 0))
@@ -561,7 +561,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 92.71 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7a4266d5-3d6a-4e1d-a930-b39a8e9a809b)
-    (property "Reference" "#FLG?" (id 0) (at 92.71 24.765 0)
+    (property "Reference" "#FLG0103" (id 0) (at 92.71 24.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (id 1) (at 92.71 21.59 0))
@@ -577,7 +577,7 @@
   (symbol (lib_id "power:GND") (at 33.02 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 90bbf01b-22a2-4994-b96e-ba0a891080ef)
-    (property "Reference" "#PWR?" (id 0) (at 33.02 86.36 0)
+    (property "Reference" "#PWR0101" (id 0) (at 33.02 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 33.02 85.09 0))
@@ -593,7 +593,7 @@
   (symbol (lib_id "Connector:USB_C_Receptacle_PowerOnly_6P") (at 33.02 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d7785e9f-17a1-4e6c-8127-195ba0f3d798)
-    (property "Reference" "J?" (id 0) (at 33.02 44.45 0))
+    (property "Reference" "J1" (id 0) (at 33.02 44.45 0))
     (property "Value" "USB_C_Receptacle_PowerOnly_6P" (id 1) (at 33.02 46.99 0))
     (property "Footprint" "" (id 2) (at 36.83 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -613,7 +613,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 48.26 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid dd310fac-09c6-41b2-9d0c-c2ef910f6676)
-    (property "Reference" "#FLG?" (id 0) (at 48.26 24.765 0)
+    (property "Reference" "#FLG0101" (id 0) (at 48.26 24.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (id 1) (at 48.26 21.59 0))
@@ -629,7 +629,7 @@
   (symbol (lib_id "power:+3.3V") (at 39.37 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ed4aa3f3-3b67-4335-abc2-177d584abd27)
-    (property "Reference" "#PWR?" (id 0) (at 39.37 30.48 0)
+    (property "Reference" "#PWR0103" (id 0) (at 39.37 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (id 1) (at 39.37 21.59 0))
@@ -647,38 +647,38 @@
   )
 
   (symbol_instances
-    (path "/0560e7fb-eff7-4e7a-b494-61da7558e934"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
+    (path "/dd310fac-09c6-41b2-9d0c-c2ef910f6676"
+      (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/276d9ea1-694c-4418-9d54-922ac7a4dfb2"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
+      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/7a4266d5-3d6a-4e1d-a930-b39a8e9a809b"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
+      (reference "#FLG0103") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/dd310fac-09c6-41b2-9d0c-c2ef910f6676"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
-    (path "/014d78d0-bac9-4e5a-b297-54c9280dcfbf"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/14824ead-fe88-4607-9e03-ab16f2f4a228"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/2267c83d-9bd1-481b-8df7-627889eab3e9"
-      (reference "#PWR?") (unit 1) (value "+9V") (footprint "")
-    )
-    (path "/2db49efc-fbef-4c5f-8e82-592f2deb258d"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    (path "/0560e7fb-eff7-4e7a-b494-61da7558e934"
+      (reference "#FLG0104") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/90bbf01b-22a2-4994-b96e-ba0a891080ef"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14824ead-fe88-4607-9e03-ab16f2f4a228"
+      (reference "#PWR0102") (unit 1) (value "+5V") (footprint "")
     )
     (path "/ed4aa3f3-3b67-4335-abc2-177d584abd27"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR0103") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/014d78d0-bac9-4e5a-b297-54c9280dcfbf"
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2267c83d-9bd1-481b-8df7-627889eab3e9"
+      (reference "#PWR0105") (unit 1) (value "+9V") (footprint "")
+    )
+    (path "/2db49efc-fbef-4c5f-8e82-592f2deb258d"
+      (reference "#PWR0106") (unit 1) (value "+5V") (footprint "")
     )
     (path "/d7785e9f-17a1-4e6c-8127-195ba0f3d798"
-      (reference "J?") (unit 1) (value "USB_C_Receptacle_PowerOnly_6P") (footprint "")
+      (reference "J1") (unit 1) (value "USB_C_Receptacle_PowerOnly_6P") (footprint "")
     )
   )
 )
